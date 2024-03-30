@@ -6,16 +6,16 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> G7 AUTOCAD AND SOLIDWORKS </h2>
+  <h2>  AUTOCAD AND SOLIDWORKS </h2>
 </div>
 
 # Course Report
 
-## Name: [G S MALIK BASHA]
+## Name: G S MALIK BASHA
 
-## Qualifications: [Your QualIFICATION]
+## Qualifications: B.Tech Final year
 
-Welcome to the course report for the G7 AUTOCAD AND SOLIDWORKS! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the  AUTOCAD AND SOLIDWORKS! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
