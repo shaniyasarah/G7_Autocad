@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: f-111 Swing Wing Fighter Aircraft, Turbo-Fan Engine,Turbo-Propeller Engine     | [Click Here](https://github.com/anibhagat/G7_Autocad/tree/main/Mini%20Projects/Aniket%20Bhagat)                         |
-| Final Project: landing Gear , Fighter Aircraft     | [Click Here](https://github.com/anibhagat/G7_Autocad/tree/main/Final%20Project/Aniket%20Bhagat)                         |
+| Mini Projects: f-111 Swing Wing Fighter Aircraft, Turbo-Fan Engine,Turbo-Propeller Engine     | [Click Here](https://github.com/anibhagat/G7_Autocad/tree/main/Mini%20Projects/Aniket%20Bhagat)                        |
+| Final Project: landing Gear , Fighter Aircraft     | [Click Here](https://github.com/anibhagat/G7_Autocad/tree/main/Final%20Project/Aniket%20Bhagat)                        |
