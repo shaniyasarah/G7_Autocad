@@ -6,16 +6,16 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2> AutoCad & Solidworks for Mechanical Engineers </h2>
 </div>
 
 # Course Report
 
-## Name: [Your Name]
+## Name: Rutik dandge
 
-## Qualifications: [Your Qualifications]
+## Qualifications: Pursuing 4th year Btech
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for theAutoCad & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Projects:top viwe aircraft ,ign gear,radial engine |[click here](  https://github.com/sure-trust/G7_Autocad/tree/main/Mini%20Projects/Rutik)|
+| Final Project: passanger aircraft,small jet  engine              | [click here] (https://github.com/sure-trust/G7_Autocad/tree/main/Final%20Project/Rutik/MAJOR%20PROJECT)|
