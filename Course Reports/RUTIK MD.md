@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects:top viwe aircraft ,ign gear,radial engine |[click here](  https://github.com/sure-trust/G7_Autocad/tree/main/Mini%20Projects/Rutik)|
-| Final Project: passanger aircraft,small jet  engine              | [click here] (https://github.com/sure-trust/G7_Autocad/tree/main/Final%20Project/Rutik/MAJOR%20PROJECT)|
+| Mini Projects:top viwe aircraft ,ign gear,radial engine |[click here](https://github.com/sure-trust/G7_Autocad/tree/main/Mini%20Projects/Rutik)|
+| Final Project: passanger aircraft,small jet  engine              | [click here](https://github.com/sure-trust/G7_Autocad/tree/main/Final%20Project/Rutik/MAJOR%20PROJECT)|
