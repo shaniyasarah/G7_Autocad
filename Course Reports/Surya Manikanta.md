@@ -11,10 +11,10 @@ c<!-- PROJECT LOGO -->
 
 # Course Report
 
-## Name: ANIKET DHANRAJ BHAGAT
+## Name: DONTHAMSETTI N V V SAI SURYA MANIKANTA
 
 
-## Qualifications: Pursuing B.Tech final Year in Aeronautical Engineeringc
+## Qualifications: Pursuing B.Tech final Year in Mechanical Engineering
 
 Welcome to the course report for the AutoCad & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
@@ -25,5 +25,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: f-111 Swing Wing Fighter Aircraft, Turbo-Fan Engine,Turbo-Propeller Engine    | [Click Here](https://github.com/sure-trust/G7_Autocad/tree/main/Mini%20Projects/Aniket%20Bhagat)                        |
-| Final Project: landing Gear , Fighter Aircraft     | [Click Here](https://github.com/sure-trust/G7_Autocad/tree/main/Final%20Project/Aniket%20Bhagatc)                         |
+| Mini Projects: Drill Jig , Gear Pump , Crane Hook    | [Click Here](https://github.com/sure-trust/G7_Autocad/tree/main/Mini%20Projects/Manikanta)                        |
+| Final Project: Crane Hook , Steam Engine     | [Click Here](https://github.com/sure-trust/G7_Autocad/tree/main/Final%20Project/Manikanta/Steam%20engine%20Assemble)                         |
